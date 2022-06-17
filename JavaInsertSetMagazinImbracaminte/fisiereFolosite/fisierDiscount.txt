@@ -1,0 +1,4 @@
+Magazin{articole='geaca', marca='Adidas', culoare='rosu', marime=38, pret=940, discout='5%'}
+Magazin{articole='tricou', marca='Puma', culoare='alb', marime=38, pret=100, discout='20%'}
+Magazin{articole='geaca', marca='Puma', culoare='gri', marime=22, pret=550, discout='20%'}
+Magazin{articole='blugi', marca='Zara', culoare='negru', marime=25, pret=1100, discout='5%'}

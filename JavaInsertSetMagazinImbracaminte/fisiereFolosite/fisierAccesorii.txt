@@ -1,0 +1,3 @@
+Magazin{articole='manusi', marca='Verosa', culoare='negru', marime=12, pret=50, discout='0%'}
+Magazin{articole='papuci', marca='Sporfo', culoare='albastru', marime=45, pret=120, discout='0%'}
+Magazin{articole='ochelari', marca='Nomad', culoare='negru', marime=2, pret=950, discout='0%'}

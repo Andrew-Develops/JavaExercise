@@ -1,0 +1,5 @@
+Magazin{articole='geaca', marca='Nike', culoare='mov', marime=46, pret=120, discout='0%'}
+Magazin{articole='geaca', marca='Adidas', culoare='rosu', marime=38, pret=940, discout='5%'}
+Magazin{articole='geaca', marca='Gucci', culoare='maro', marime=20, pret=780, discout='0%'}
+Magazin{articole='geaca', marca='Puma', culoare='gri', marime=22, pret=550, discout='20%'}
+Magazin{articole='geaca', marca='Levis', culoare='gri', marime=40, pret=220, discout='0%'}

@@ -1,0 +1,12 @@
+geaca;Levis;gri;40;220;0%
+blugi;Zara;negru;25;1100;5%
+geaca;Gucci;maro;20;780;0%
+manusi;Verosa;negru;12;50;0%
+tricou;Puma;alb;38;100;20%
+geaca;Adidas;rosu;38;940;5%
+blugi;Versace;negru;25;1100;0%
+ochelari;Nomad;negru;2;950;0%
+blugi;Zara;negru;25;1100;0%
+geaca;Puma;gri;22;550;20%;0%
+papuci;Sporfo;albastru;45;120;0%
+geaca;Nike;mov;46;120;0%

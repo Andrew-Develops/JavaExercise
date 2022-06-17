@@ -1,0 +1,1 @@
+Magazin{articole='tricou', marca='Puma', culoare='alb', marime=38, pret=100, discout='20%'}

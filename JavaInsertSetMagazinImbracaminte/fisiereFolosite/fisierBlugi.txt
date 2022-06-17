@@ -1,0 +1,3 @@
+Magazin{articole='blugi', marca='Versace', culoare='negru', marime=25, pret=1100, discout='0%'}
+Magazin{articole='blugi', marca='Zara', culoare='negru', marime=25, pret=1100, discout='0%'}
+Magazin{articole='blugi', marca='Zara', culoare='negru', marime=25, pret=1100, discout='5%'}
