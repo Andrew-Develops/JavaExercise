@@ -1,0 +1,8 @@
+Andrei;Viorel;IT
+Alexandru;Macedon;Vanzari
+Mircea;Constantin;Vanzari
+Popescu;Ion;Vanzari
+Alexandru;Toma;IT
+Ionel;Marica;IT
+Marcel;Ionosif;Vanzari
+Alexandru;Caragea;IT

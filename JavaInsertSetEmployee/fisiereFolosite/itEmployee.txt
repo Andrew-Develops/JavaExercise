@@ -1,0 +1,4 @@
+Employee{firstName='Alexandru', lastName='Toma', department='IT'}
+Employee{firstName='Alexandru', lastName='Caragea', department='IT'}
+Employee{firstName='Ionel', lastName='Marica', department='IT'}
+Employee{firstName='Andrei', lastName='Viorel', department='IT'}
