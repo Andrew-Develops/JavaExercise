@@ -1,4 +1,4 @@
-package ArraysAndStrings;
+package CCIQuestions;
 
 public class StringRotation {
 

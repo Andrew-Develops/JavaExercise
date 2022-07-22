@@ -1,4 +1,4 @@
-package ArraysAndStrings;
+package CCIQuestions;
 
 public class PalindromePermutation {
 
@@ -9,7 +9,7 @@ public class PalindromePermutation {
      * Permutation este rearanjarea caracterelor intr-un string
      */
 
-    //O(N)
+    //O(N+M)
     public static boolean palindromePermutation(String text) {
         int[] check = new int[128];
         for (int i = 0; i < text.length(); i++) {

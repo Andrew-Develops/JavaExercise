@@ -1,4 +1,4 @@
-package ArraysAndStrings;
+package CCIQuestions;
 
 public class StringCompression {
 
@@ -38,7 +38,9 @@ public class StringCompression {
     public static void main(String[] args) {
 
         String text = "aabcccccaaa";
+        String text2 = "aaaaaaa";
         System.out.println(stringCompression(text));
+        System.out.println(stringCompression(text2));
 
     }
 }
