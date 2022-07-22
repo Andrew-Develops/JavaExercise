@@ -211,8 +211,8 @@ public class EmployeeRepositoryTests {
                 .build();*/
 
         employeeRepository.save(employee);
-        String firstName = "John";
-        String lastName = "Mike";
+        String firstName = "Andrew";
+        String lastName = "Right";
 
         //when - action or the behaviour that we are going to test
         //Employee savedEmployee = employeeRepository.findByJPQLNamedParams(firstName, lastName);
